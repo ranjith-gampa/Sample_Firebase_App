@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="app_name">Sample_Firebase_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="LT1">SMART TAGGING</string>
+    <string name="B1">LOGIN</string>
+    <string name="B2">Forgot Username</string>
+    <string name="B3">Forgot Password</string>
+    <string name="B4">EXIT</string>
+
+
+    <string name="title_activity_after_login_supreme_users">AfterLoginSupremeUsers</string>
+    <string name="LT1_After_Login_Supreme_Users">HOME</string>
+    <string name="B1_After_Login_Supreme_Users">SIGN-UP PATIENT</string>
+    <string name="B2_After_Login_Supreme_Users">LOGIN PATIENT</string>
+    <string name="B3_After_Login_Supreme_Users">READ TAG</string>
+    <string name="B4_After_Login_Supreme_Users">LOG OUT</string>
+    <string name="B5_After_Login_Supreme_Users">EXIT</string>
+    <string name="ST1_After_Login_Supreme_Users"></string>
+
+
+    <string name="title_activity_login_patient">LoginPatient</string>
+
+
+    <string name="title_activity_read_tag">ReadTagActivity</string>
+
+
+    <string name="title_activity_sign_up_patient">SignUpPatientActivity</string>
+
+
+
+</resources>
